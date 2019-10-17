@@ -1,0 +1,15 @@
+.column {
+  width: 33%;
+  float: left;
+}
+body {
+  text-align: center;
+}
+img {
+  width: 250px;
+  height: auto;
+}
+.important {
+  font-style: italic;
+  color: blue;
+}

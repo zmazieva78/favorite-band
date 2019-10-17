@@ -1,8 +1,19 @@
-.column {
+.column1, .column2, .column3 {
   width: 60%;
+}
+.column1 {
+  background-color: #F29D9F;
+}
+.column2 {
+  background-color: #F5E330;
+}
+.column3 {
+  background-color: #7FCFE4;
 }
 body {
   text-align: center;
+  background-image: url("../img/background.jpg");
+  background-size: cover;
 }
 img {
   width: 250px;

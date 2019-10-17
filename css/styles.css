@@ -25,3 +25,14 @@ h1 {
 h2 {
   color: purple;
 }
+.sidebar {
+  float: right;
+  width: 25%;
+  background-color: yellow;
+  margin-top: 25px;
+
+}
+li {
+  list-style-type: none;
+  margin-right: 20px;
+}
